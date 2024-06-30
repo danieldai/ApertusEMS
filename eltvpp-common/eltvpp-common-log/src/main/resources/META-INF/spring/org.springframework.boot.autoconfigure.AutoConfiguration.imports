@@ -1,0 +1,2 @@
+com.eltvpp.common.log.service.AsyncLogService
+com.eltvpp.common.log.aspect.LogAspect

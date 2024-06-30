@@ -1,0 +1,16 @@
+com.eltvpp.system.api.factory.RemoteUserFallbackFactory
+com.eltvpp.system.api.factory.RemoteLogFallbackFactory
+com.eltvpp.system.api.factory.RemoteFileFallbackFactory
+com.eltvpp.system.api.factory.RemoteDictDataFallbackFactory
+com.eltvpp.system.api.factory.RemoteGroupFallbackFactory
+com.eltvpp.system.api.factory.RemoteMonitorDeviceFallbackFactory
+com.eltvpp.system.api.factory.RemoteMonitorDeviceVarFallbackFactory
+com.eltvpp.system.api.factory.RemotePageConfigFallbackFactory
+com.eltvpp.system.api.factory.RemoteCommonCreateFallbackFactory
+com.eltvpp.system.api.factory.RemoteAddressServiceFallbackFactory
+com.eltvpp.system.api.factory.RemoteShardingMonthAccumulateFallbackFactory
+com.eltvpp.system.api.factory.RemoteDashboardConfigCardFallbackFactory
+com.eltvpp.system.api.factory.RemoteReportTemplateFallbackFactory
+com.eltvpp.system.api.factory.RemoteSpecialDataVFallbackFactory
+com.eltvpp.system.api.factory.RemoteCommunicationDeviceFallbackFactory
+com.eltvpp.system.api.factory.RemoteElectricPriceSchemeConfigFallbackFactory

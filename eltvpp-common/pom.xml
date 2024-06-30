@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://maven.apache.org/POM/4.0.0"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <groupId>com.eltvpp</groupId>
+        <artifactId>apertus-ems</artifactId>
+        <version>3.6.4</version>
+    </parent>
+    <modelVersion>4.0.0</modelVersion>
+
+    <modules>
+        <module>eltvpp-common-log</module>
+        <module>eltvpp-common-core</module>
+        <module>eltvpp-common-redis</module>
+        <module>eltvpp-common-seata</module>
+        <module>eltvpp-common-swagger</module>
+        <module>eltvpp-common-security</module>
+        <module>eltvpp-common-sensitive</module>
+        <module>eltvpp-common-datascope</module>
+        <module>eltvpp-common-datasource</module>
+    </modules>
+
+    <artifactId>eltvpp-common</artifactId>
+    <packaging>pom</packaging>
+
+    <description>
+        eltvpp-common通用模块
+    </description>
+
+</project>
